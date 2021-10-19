@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(34,57,106);
+    color: #ffff;
+}
+h2{
+    color: rgb(86,187,102);
+}
+a{
+    color: red;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: rgb(17,36,77);
+}
